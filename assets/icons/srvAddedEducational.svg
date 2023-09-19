@@ -1,0 +1,6 @@
+<svg id="teacher" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <path id="Vector" d="M.013,0,0,5.863A4.264,4.264,0,0,0,2.725,9.65l3.987,1.325a4.807,4.807,0,0,0,2.525,0L13.225,9.65A4.264,4.264,0,0,0,15.95,5.863V.063" transform="translate(7.025 16.35)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-2" data-name="Vector" d="M0,7.5V0" transform="translate(26.75 11.25)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-3" data-name="Vector" d="M9.334.664,1.809,5.577a3.983,3.983,0,0,0,0,6.675l7.525,4.912a4.888,4.888,0,0,0,4.925,0l7.487-4.912a3.983,3.983,0,0,0,0-6.663L14.259.677A4.858,4.858,0,0,0,9.334.664Z" transform="translate(3.228 2.498)" fill="none" stroke="#b42c4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-4" data-name="Vector" d="M0,0H30V30H0Z" transform="translate(30 30) rotate(180)" fill="none" opacity="0"/>
+</svg>

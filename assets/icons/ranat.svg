@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="vuesax_bulk_music" data-name="vuesax/bulk/music" transform="translate(-748 -316)">
+    <g id="music" transform="translate(748 316)">
+      <path id="Vector" d="M8.377,0V9.415a4.223,4.223,0,1,1-1.633-3.29V.467Z" transform="translate(3.628 12.063)" fill="#b42c4b"/>
+      <path id="Vector-2" data-name="Vector" d="M8.377,0V10.687A4.188,4.188,0,1,1,4.188,6.51a4.108,4.108,0,0,1,2.567.9V.467Z" transform="translate(15.995 8.54)" fill="#b42c4b"/>
+      <path id="Vector-3" data-name="Vector" d="M14,3.708v2.5L0,10.2V5.54A3.5,3.5,0,0,1,2.683,2.052L9.427.208a3.719,3.719,0,0,1,3.337.385A3.65,3.65,0,0,1,14,3.708Z" transform="translate(10.372 2.335)" fill="#ffd7ac"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H28V28H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

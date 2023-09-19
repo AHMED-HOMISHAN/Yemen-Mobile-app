@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="phone" transform="translate(-317 -211)">
+    <rect id="Rectangle_110427" data-name="Rectangle 110427" width="20" height="20" transform="translate(317 211)" fill="#f1f1f1" opacity="0"/>
+    <g id="vuesax_twotone_mobile" data-name="vuesax/twotone/mobile" transform="translate(320.333 212.667)">
+      <g id="mobile" transform="translate(0)">
+        <path id="Vector" d="M13.333,4.167V12.5c0,3.333-.833,4.167-4.167,4.167h-5C.833,16.667,0,15.833,0,12.5V4.167C0,.833.833,0,4.167,0h5C12.5,0,13.333.833,13.333,4.167Z" fill="none" stroke="#b42c4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M3.333,0H0" transform="translate(5 2.917)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M2.583,1.292A1.292,1.292,0,1,1,1.292,0,1.292,1.292,0,0,1,2.583,1.292Z" transform="translate(5.375 11.667)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

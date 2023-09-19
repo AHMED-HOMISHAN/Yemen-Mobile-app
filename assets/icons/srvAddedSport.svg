@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="vuesax_twotone_emoji-happy" data-name="vuesax/twotone/emoji-happy" transform="translate(-428 -380)">
+    <g id="emoji-happy" transform="translate(428 380)">
+      <path id="Vector" d="M8.75,25h7.5C22.5,25,25,22.5,25,16.25V8.75C25,2.5,22.5,0,16.25,0H8.75C2.5,0,0,2.5,0,8.75v7.5C0,22.5,2.5,25,8.75,25Z" transform="translate(2.5 2.5)" fill="none" stroke="#b42c4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M3.75,1.875A1.875,1.875,0,1,1,1.875,0,1.875,1.875,0,0,1,3.75,1.875Z" transform="translate(17.5 8.438)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M3.75,1.875A1.875,1.875,0,1,1,1.875,0,1.875,1.875,0,0,1,3.75,1.875Z" transform="translate(8.75 8.438)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M1.125,0h9A1.12,1.12,0,0,1,11.25,1.125,5.625,5.625,0,1,1,0,1.125,1.12,1.12,0,0,1,1.125,0Z" transform="translate(9.375 16.625)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H30V30H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

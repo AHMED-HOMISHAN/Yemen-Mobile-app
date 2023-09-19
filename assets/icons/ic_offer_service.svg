@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="Group_133504" data-name="Group 133504" transform="translate(-298 -457)">
+    <rect id="Rectangle_110405" data-name="Rectangle 110405" width="42" height="42" rx="8" transform="translate(298 457)" fill="#ffd7ac" opacity="0.2"/>
+    <g id="vuesax_bulk_receipt-discount" data-name="vuesax/bulk/receipt-discount" transform="translate(-59 276)">
+      <g id="receipt-discount" transform="translate(364 188)">
+        <path id="Vector" d="M0,0H28V28H0Z" fill="none" opacity="0"/>
+        <path id="Vector-2" data-name="Vector" d="M7,4.667V7.49A2.806,2.806,0,0,1,3.99,10.5H0V2.345A2.348,2.348,0,0,1,2.357,0,4.66,4.66,0,0,1,7,4.667Z" transform="translate(18.667 2.333)" fill="#ffd7ac"/>
+        <path id="Vector-3" data-name="Vector" d="M0,5.833V22.167a1.163,1.163,0,0,0,1.867.933l2-1.493a1.175,1.175,0,0,1,1.54.117l1.937,1.948a1.176,1.176,0,0,0,1.657,0l1.96-1.96a1.157,1.157,0,0,1,1.517-.1l2,1.493a1.169,1.169,0,0,0,1.867-.933V2.333A2.34,2.34,0,0,1,18.667,0h-14C1.167,0,0,2.088,0,4.667Z" transform="translate(2.333 2.333)" fill="#b42c4b"/>
+        <g id="Group" transform="translate(6.443 8.776)">
+          <path id="Vector-4" data-name="Vector" d="M1.167,0A1.167,1.167,0,1,0,2.333,1.167,1.17,1.17,0,0,0,1.167,0Z" transform="translate(5.725 5.317)" fill="#ffd7ac"/>
+          <path id="Vector-5" data-name="Vector" d="M1.167,2.333A1.167,1.167,0,1,0,0,1.167,1.163,1.163,0,0,0,1.167,2.333Z" transform="translate(0.055 0.592)" fill="#ffd7ac"/>
+          <path id="Vector-6" data-name="Vector" d="M7.86.254a.88.88,0,0,0-1.237,0L.254,6.624a.88.88,0,0,0,0,1.237.873.873,0,0,0,1.237,0L7.86,1.49A.88.88,0,0,0,7.86.254Z" fill="#ffd7ac"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

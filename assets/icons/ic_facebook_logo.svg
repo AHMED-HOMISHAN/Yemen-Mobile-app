@@ -1,0 +1,8 @@
+<svg id="vuesax_twotone_facebook" data-name="vuesax/twotone/facebook" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="facebook">
+    <path id="BG_133" data-name="BG 133" d="M0,0H20V20H0Z" fill="none" opacity="0.58"/>
+    <path id="Vector" d="M4.167,2.75V5.208H6.358a.246.246,0,0,1,.242.3L6.283,7.092a.249.249,0,0,1-.242.2H4.167v6.042h-2.5V7.292H.25A.246.246,0,0,1,0,7.042V5.458a.246.246,0,0,1,.25-.25H1.667V2.5A2.5,2.5,0,0,1,4.167,0h2.25a.246.246,0,0,1,.25.25v2a.246.246,0,0,1-.25.25h-2A.246.246,0,0,0,4.167,2.75Z" transform="translate(7.5 5)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-width="1"/>
+    <path id="Vector-2" data-name="Vector" d="M10.833,16.667h-5C1.667,16.667,0,15,0,10.833v-5C0,1.667,1.667,0,5.833,0h5C15,0,16.667,1.667,16.667,5.833v5C16.667,15,15,16.667,10.833,16.667Z" transform="translate(1.667 1.667)" fill="none" stroke="#b42c4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

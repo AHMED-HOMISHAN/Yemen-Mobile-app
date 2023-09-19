@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="vuesax_bulk_building-4" data-name="vuesax/bulk/building-4" transform="translate(-620 -188)">
+    <g id="building-4" transform="translate(620 188)">
+      <path id="Vector" d="M0,0H34V34H0Z" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M0,26.9V4.278C0,1.431,1.417,0,4.236,0h8.826c2.819,0,4.222,1.431,4.222,4.278V26.9" transform="translate(2.975 4.264)" fill="#b42c4b"/>
+      <g id="Group" transform="translate(7.154 10.625)">
+        <path id="Vector-3" data-name="Vector" d="M8.075,2.125H1.063A1.07,1.07,0,0,1,0,1.063,1.07,1.07,0,0,1,1.063,0H8.075A1.07,1.07,0,0,1,9.138,1.063,1.07,1.07,0,0,1,8.075,2.125Z" fill="#ffd7ac"/>
+      </g>
+      <g id="Group-2" data-name="Group" transform="translate(7.154 15.938)">
+        <path id="Vector-4" data-name="Vector" d="M8.075,2.125H1.063A1.07,1.07,0,0,1,0,1.063,1.07,1.07,0,0,1,1.063,0H8.075A1.07,1.07,0,0,1,9.138,1.063,1.07,1.07,0,0,1,8.075,2.125Z" fill="#ffd7ac"/>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(10.625 24.792)">
+        <path id="Vector-5" data-name="Vector" d="M1.063,7.438A1.07,1.07,0,0,1,0,6.375V1.063A1.07,1.07,0,0,1,1.063,0,1.07,1.07,0,0,1,2.125,1.063V6.375A1.07,1.07,0,0,1,1.063,7.438Z" fill="#ffd7ac"/>
+      </g>
+      <path id="Vector-6" data-name="Vector" d="M32.229,13.643H29.013V9.393a3.361,3.361,0,0,0,2.323-3.188V3.372a3.372,3.372,0,0,0-6.743,0V6.205a3.369,3.369,0,0,0,2.281,3.173v4.264H1.063a1.063,1.063,0,0,0,0,2.125H27.88c.028,0,.042.014.071.014s.043-.014.071-.014h4.207a1.063,1.063,0,0,0,0-2.125Z" transform="translate(0.354 16.462)" fill="#ffd7ac"/>
+    </g>
+  </g>
+</svg>

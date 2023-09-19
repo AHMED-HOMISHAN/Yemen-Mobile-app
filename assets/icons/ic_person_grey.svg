@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="vuesax_twotone_user" data-name="vuesax/twotone/user" transform="translate(-108 -188)">
+    <g id="user" transform="translate(108 188)">
+      <path id="Vector" d="M9.167,4.583A4.583,4.583,0,1,1,4.583,0,4.583,4.583,0,0,1,9.167,4.583Z" transform="translate(6.417 1.833)" fill="none" stroke="#b0b0b0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M15.748,6.417C15.748,2.869,12.219,0,7.874,0S0,2.869,0,6.417" transform="translate(3.126 13.75)" fill="none" stroke="#b0b0b0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H22V22H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_twotone_heart-add" data-name="vuesax/twotone/heart-add" transform="translate(-236 -252)">
+    <g id="heart-add">
+      <path id="Vector" d="M20,5.59a11.027,11.027,0,0,1-1.31,5.22,4.8,4.8,0,0,0-7.06,6.49,10.246,10.246,0,0,1-1.01.41,2.181,2.181,0,0,1-1.24,0C6.48,16.72,0,12.59,0,5.59A5.552,5.552,0,0,1,10,2.23,5.552,5.552,0,0,1,20,5.59Z" transform="translate(238 255.1)" fill="none" stroke="#ffd7ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(260 276) rotate(180)" fill="none" opacity="0"/>
+      <g id="Group">
+        <path id="Vector-3" data-name="Vector" d="M9.6,4.8A4.8,4.8,0,1,1,4.8,0,4.8,4.8,0,0,1,9.6,4.8Z" transform="translate(248.4 264.4)" fill="none" stroke="#b42c4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <g id="Group-2" data-name="Group">
+          <path id="Vector-4" data-name="Vector" d="M3.58,0H0" transform="translate(251.41 269.26)" fill="none" stroke="#b42c4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-5" data-name="Vector" d="M0,0V3.59" transform="translate(253.2 267.51)" fill="none" stroke="#b42c4b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="gift" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <path id="Vector" d="M22.667,0V11.333C22.667,15.583,21.25,17,17,17H5.667C1.417,17,0,15.583,0,11.333V0Z" transform="translate(5.624 14.167)" fill="#bd0346"/>
+  <path id="Vector-2" data-name="Vector" d="M26.917,2.833V4.25a2.555,2.555,0,0,1-2.833,2.833H2.833A2.517,2.517,0,0,1,0,4.25V2.833A2.517,2.517,0,0,1,2.833,0h21.25A2.555,2.555,0,0,1,26.917,2.833Z" transform="translate(3.542 7.083)" fill="#b42c4b"/>
+  <path id="Vector-3" data-name="Vector" d="M8.171,4.246H.351A1.327,1.327,0,0,1,.393,2.4L2.405.393a1.36,1.36,0,0,1,1.913,0Z" transform="translate(8.319 2.837)" fill="#ffd7ac"/>
+  <path id="Vector-4" data-name="Vector" d="M7.82,4.246H0L3.853.393a1.36,1.36,0,0,1,1.913,0L7.777,2.4A1.327,1.327,0,0,1,7.82,4.246Z" transform="translate(17.496 2.837)" fill="#ffd7ac"/>
+  <path id="Vector-5" data-name="Vector" d="M0,0V7.282a1.42,1.42,0,0,0,2.2,1.19l1.332-.878a1.415,1.415,0,0,1,1.558,0l1.261.85a1.412,1.412,0,0,0,2.2-1.176V0Z" transform="translate(12.665 14.167)" fill="#ffd7ac"/>
+  <path id="Vector-6" data-name="Vector" d="M0,0H34V34H0Z" fill="none" opacity="0"/>
+</svg>
